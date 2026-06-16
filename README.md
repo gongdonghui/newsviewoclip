@@ -1,4 +1,4 @@
-# newsviewoclip
+# news_video_clip_agent
 
 一个面向新闻长视频拆条的本地剪辑项目。
 
@@ -71,7 +71,7 @@
 ## 项目结构
 
 ```text
-english-video-clip/
+news_video_clip_agent/
 ├── README.md
 ├── AGENTS.md
 ├── docs/
